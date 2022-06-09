@@ -23,10 +23,10 @@ const Navigation = ({ navigation, pageData, type }) => {
             <div className="mr-5 py-4 px-6 hidden lg:block">
               <a
                 className="github-button"
-                href="https://github.com/strapi/foodadvisor"
+                href="https://github.com/alkymst/pitchdeck"
                 data-size="large"
                 data-show-count="true"
-                aria-label="Star strapi/foodadvisor on GitHub"
+                aria-label="Star alkymst/pitchdeck on GitHub"
               >
                 Star
               </a>

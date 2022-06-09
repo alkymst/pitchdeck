@@ -1,6 +1,6 @@
 # FoodAdvisor - API
 
-![FoodAdvisor](../foodadvisor.png)
+![FoodAdvisor](../pitchdeck.png)
 
 Welcome to FoodAdvisor, the official Strapi demo application.
 
@@ -18,7 +18,7 @@ Be sure to have the correct env variabless:
 
 ## Start Strapi
 
-- Run the following command in your `./foodadvisor/api` folder:
+- Run the following command in your `./pitchdeck/api` folder:
 
 ```
 yarn && yarn seed && yarn develop

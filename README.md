@@ -1,6 +1,6 @@
 # FoodAdvisor - Strapi Demo
 
-![FoodAdvisor](./foodadvisor.png)
+![FoodAdvisor](./pitchdeck.png)
 
 Welcome to FoodAdvisor, the official Strapi demo application.
 This repository contains the following:
@@ -8,7 +8,7 @@ This repository contains the following:
 - Strapi project with existing Content-types and data (`/api`)
 - Next.js client ready to fetch the content of the Strapi application (`/client`)
 
-[![Open in Gitpod](https://camo.githubusercontent.com/76e60919474807718793857d8eb615e7a50b18b04050577e5a35c19421f260a3/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)](http://gitpod.io/#https://github.com/strapi/foodadvisor)
+[![Open in Gitpod](https://camo.githubusercontent.com/76e60919474807718793857d8eb615e7a50b18b04050577e5a35c19421f260a3/68747470733a2f2f676974706f642e696f2f627574746f6e2f6f70656e2d696e2d676974706f642e737667)](http://gitpod.io/#https://github.com/alkymst/pitchdeck)
 
 ## Get started
 
@@ -31,16 +31,16 @@ Be sure to have the correct env variables for each part:
 - Clone the repository by running the following command:
 
 ```
-git clone https://github.com/strapi/foodadvisor.git
+git clone https://github.com/alkymst/pitchdeck.git
 ```
 
-- Navigate to your project folder by running `cd foodadvisor`.
+- Navigate to your project folder by running `cd pitchdeck`.
 
 ## 2. Start Strapi
 
-Navigate to your `./my-projects/foodadvisor/api` folder by running `cd api` from your command line.
+Navigate to your `./my-projects/pitchdeck/api` folder by running `cd api` from your command line.
 
-- Run the following command in your `./foodadvisor/api` folder:
+- Run the following command in your `./pitchdeck/api` folder:
 
 ```
 yarn && yarn seed && yarn develop
@@ -50,9 +50,9 @@ This will install the dependencies, fill your application with data and run your
 
 ## 3. Start Next.js
 
-Navigate to your `./my-projects/foodadvisor/client` folder by running `cd client` from your command line.
+Navigate to your `./my-projects/pitchdeck/client` folder by running `cd client` from your command line.
 
-- Run the following command in your `./foodadvisor/client` folder
+- Run the following command in your `./pitchdeck/client` folder
 
 ```
 yarn && yarn dev

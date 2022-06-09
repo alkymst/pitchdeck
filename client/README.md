@@ -1,6 +1,6 @@
 # FoodAdvisor - Client
 
-![FoodAdvisor](../foodadvisor.png)
+![FoodAdvisor](../pitchdeck.png)
 
 Welcome to FoodAdvisor, the official Strapi demo application.
 
@@ -19,7 +19,7 @@ Be sure to have the correct env variables:
 
 ## Start Next.js
 
-- Run the following command in your `./foodadvisor/client` folder
+- Run the following command in your `./pitchdeck/client` folder
 
 ```
 yarn && yarn dev
