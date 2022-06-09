@@ -1,8 +1,8 @@
-# FoodAdvisor - Strapi Demo
+# PitchDeck - Strapi Demo
 
-![FoodAdvisor](./pitchdeck.png)
+![PitchDeck](./pitchdeck.png)
 
-Welcome to FoodAdvisor, the official Strapi demo application.
+Welcome to PitchDeck, the official Strapi demo application.
 This repository contains the following:
 
 - Strapi project with existing Content-types and data (`/api`)
@@ -26,7 +26,7 @@ Be sure to have the correct env variables for each part:
   - `NEXT_PUBLIC_API_URL=<url-of-strapi>`
   - `PREVIEW_SECRET=<the-same-random-token-as-for-strapi>`
 
-## 1. Clone FoodAdvisor
+## 1. Clone PitchDeck
 
 - Clone the repository by running the following command:
 

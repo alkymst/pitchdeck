@@ -1,8 +1,8 @@
-# FoodAdvisor - Client
+# PitchDeck - Client
 
-![FoodAdvisor](../pitchdeck.png)
+![PitchDeck](../pitchdeck.png)
 
-Welcome to FoodAdvisor, the official Strapi demo application.
+Welcome to PitchDeck, the official Strapi demo application.
 
 ## Get started
 

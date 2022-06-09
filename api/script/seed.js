@@ -32,10 +32,10 @@ async function updateUid() {
       const rawFile = fse.readFileSync(filePath);
       const packageJSON = JSON.parse(rawFile);
 
-      if (packageJSON.strapi.uuid.includes("FOODADVISOR")) return null;
+      if (packageJSON.strapi.uuid.includes("PITCHDECK")) return null;
 
       packageJSON.strapi.uuid =
-        `FOODADVISOR-${
+        `PITCHDECK-${
           process.env.GITPOD_WORKSPACE_URL ? "GITPOD-" : "LOCAL-"
         }` + uuid();
 
